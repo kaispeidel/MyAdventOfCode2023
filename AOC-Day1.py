@@ -2,8 +2,6 @@
 # Day 1 - Trebuchet?!
 
 import os
-import os
-
 
 
 def main():
